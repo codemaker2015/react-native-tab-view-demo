@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tab-view-demo",
+    "slug": "tab-view-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tab-view-demo"
+}
